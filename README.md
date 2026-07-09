@@ -3,13 +3,13 @@ FlavorQuest is a modern recipe discovery web application built with **React**, *
 
 ## 📸 Preview (PC)
 ![app preview](/src/assets/images/image.png)
-![alt text](/dist/assets/images/image-2.png)
-![alt text](/dist/assets/images/image-3.png)
+![alt text](/src/assets/images/image-2.png)
+![alt text](/src/assets/images/image-3.png)
 
 ## 📸 Preview (Mobile)
-![alt text](/dist/assets/images/image-mob-1.png)
-![alt text](/dist/assets/images/image-mob-2.png)
-![alt text](/dist/assets/images/image-mob-3.png)
+![alt text](/src/assets/images/image-mob-1.png)
+![alt text](/src/assets/images/image-mob-2.png)
+![alt text](/src/assets/images/image-mob-3.png)
 
 ## ✨ Features
 * 🔍 Search recipes instantly
