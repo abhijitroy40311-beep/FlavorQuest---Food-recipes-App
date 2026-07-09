@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://chefist.com/sitemap.xml
