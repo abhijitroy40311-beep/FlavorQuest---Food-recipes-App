@@ -2,7 +2,7 @@
 FlavorQuest is a modern recipe discovery web application built with **React**, **Vite**, and **Tailwind CSS**. Search for recipes, explore detailed cooking instructions, save your favorite dishes, and enjoy a fast, responsive user experience.
 
 ## 📸 Preview (PC)
-![app preview](/dist/assets/images/image.png)
+![app preview](/src/assets/images/image.png)
 ![alt text](/dist/assets/images/image-2.png)
 ![alt text](/dist/assets/images/image-3.png)
 
